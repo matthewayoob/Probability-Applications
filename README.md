@@ -7,7 +7,7 @@ Through my studies of Probability Theory below I worked thorough a plethora of m
 
 3. Discrete Random Variables
 
-4. Continuous Random Variables 􏰀 
+4. Continuous Random Variables 
 
 5. Multiple Random Variables
 
